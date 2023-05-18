@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     
   schedule:
-    - cron: '5 */4 * * *'
+    - cron: '5 */2 * * *'
 
 jobs:
   run_python_script:
@@ -24,6 +24,13 @@ jobs:
     - name: Run Python script
       run: python ./fan.py
 
+    - name: Check for changes
+      run: |
+        if git diff-index --quiet HEAD --; then
+          echo "No changes detected. Skipping commit."
+          exit 0
+        fi
+        
     - name: Commit
       run: |
         git config --global user.name "GitHub Actions"
