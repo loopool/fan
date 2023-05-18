@@ -24,21 +24,20 @@ jobs:
     - name: Run Python script
       run: python ./fan.py
 
-    - name: Check for changes
+    - id: check
+      name: Check for changes
       run: |
         if git diff-index --quiet HEAD --; then
           echo "No changes detected. Skipping commit."
           exit 0
         fi
-        
-    - name: Commit
-      run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
         git add .
-        git commit -m "Auto-commit changes"
+        git commit -m "update"
 
     - name: Push changes
+      if: steps.check.conclusion == 'success'
       uses:  ad-m/github-push-action@master
       with:
          # github_token: ${{ secrets.TOKEN }}
