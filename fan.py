@@ -16,7 +16,6 @@ def get_fan_conf():
     if not match:
         return
     result = match.group(1)
-    content = base64.b64decode(result)
 
     m = hashlib.md5()
     m.update(result.encode('utf-8'))
@@ -30,7 +29,10 @@ def get_fan_conf():
     except:
         pass
 
-    with open('xo.json', 'wb') as f:
+    content = base64.b64decode(result).decode('utf-8')
+    url = re.search(r'spider"\:"(.*);md5;', content).group(1)
+    content = content.replace(url, './JAR/fan.txt')
+    with open('xo.json', 'w', newline='', encoding='utf-8') as f:
         f.write(content)
 
     # Update conf.md5
@@ -38,18 +40,17 @@ def get_fan_conf():
     with open("config.ini", "w") as f:
         config.write(f)
 
-    jmd5 = re.search(b';md5;(\w+)"', content).group(1)
-    current_md5 = config.get("md5", "jar").strip().encode()
+    jmd5 = re.search(r';md5;(\w+)"', content).group(1)
+    current_md5 = config.get("md5", "jar").strip()
 
     if jmd5 != current_md5:
         # Update jar.md5
-        config.set("md5", "jar", jmd5.decode())
+        config.set("md5", "jar", jmd5)
         with open("config.ini", "w") as f:
             config.write(f)
 
-        url = re.search(b'spider"\:"(.*);md5;', content).group(1)
         response = requests.get(url)
-        with open("fan.txt", "wb") as f:
+        with open("./JAR/fan.txt", "wb") as f:
             f.write(response.content)
 
 if __name__ == '__main__':
