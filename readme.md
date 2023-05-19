@@ -3,7 +3,9 @@
 Actions定时抓取更新
 
 接口地址
-极狐
+
+极狐  
 https://jihulab.com/xo2/fty/-/raw/main/xo.json
-Github
+
+Github  
 https://ghproxy.net/https://raw.githubusercontent.com/loopool/fan/main/xo.json
