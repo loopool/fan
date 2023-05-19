@@ -32,6 +32,8 @@ def get_fan_conf():
     content = base64.b64decode(result).decode('utf-8')
     url = re.search(r'spider"\:"(.*);md5;', content).group(1)
     content = content.replace(url, './JAR/fan.txt')
+    content = diy_conf(content)
+
     with open('xo.json', 'w', newline='', encoding='utf-8') as f:
         f.write(content)
 
@@ -52,6 +54,16 @@ def get_fan_conf():
         response = requests.get(url)
         with open("./JAR/fan.txt", "wb") as f:
             f.write(response.content)
+
+def diy_conf(content):
+    pattern = r'{"key":"js豆瓣"(.|\n)*(?={"key":"csp_apple")'
+    replacement = r'{"key":"js豆瓣","name":"🅱豆瓣┃首页","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},\n'
+    content = re.sub(pattern, replacement, content)
+    pattern = r'{"key":"csp_Nbys"(.|\n)*(?={"key":"cc")'
+    replacement = ''
+    content = re.sub(pattern, replacement, content)
+
+    return content
 
 if __name__ == '__main__':
     get_fan_conf()
