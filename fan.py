@@ -39,7 +39,7 @@ def get_fan_conf():
     # 本地包
     local_content = local_conf(content)
     with open('a.json', 'w', newline='', encoding='utf-8') as f:
-        f.write(content)
+        f.write(local_content)
 
     # Update conf.md5
     config.set("md5", "conf", md5)
