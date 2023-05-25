@@ -70,8 +70,7 @@ def diy_conf(content):
     return content
 
 def local_conf(content):
-    content = content.replace('./', 'clan://TVBox/')
-    content = content.replace('http://127.0.0.1:9978/file/tvfan/token.txt', 'clan://TVBox/json/tok.txt')
+    content = content.replace('http://127.0.0.1:9978/file/tvfan/token.txt', './json/tok.txt')
 
     return content
 if __name__ == '__main__':
