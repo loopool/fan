@@ -1,11 +1,12 @@
 {
-"spider":"clan://TVBox/JAR/fan.txt;md5;22bea96778121a176132c5d1d2e92889",
+"spider":"./JAR/fan.txt;md5;c852ef355f35c4dd1cffbba826bc7174",
 "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
 
 "sites":[
-{"key":"js豆瓣","name":"🅱豆瓣┃首页","type":3,"api":"clan://TVBox/JS/lib/drpy2.min.js","ext":"clan://TVBox/JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
+{"key":"js豆瓣","name":"🅱豆瓣┃首页","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key":"csp_apple","name":"🍎苹果┃App","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YQKAPP","name":"🎉一起┃App","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
+{"key":"csp_AppTT","name":"🐰图图┃APP","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"SldYWXFabkhXTWlsTlpMdFNSSyN0ek1JdzlJQVJSY00=$$$Q01pbkowUzdvNnNZWk1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"csp_kuaikan","name":"👀快看┃App","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_酷酷","name":"🏵酷酷┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuyun.realku.cn/api.php/app/"},
 {"key":"csp_BuLei","name":"💢布雷┃直连","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://饭太硬.ga/$$$auto$$$sdlw1111$$$qqaa1122"},
@@ -55,14 +56,14 @@
 {"key":"有声小说js","name":"🎧有声┃小说","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"csp_Alist1","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"ext":"http://饭太硬.ga/x/json/alist.json"},
 
-{"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"clan://TVBox/json/tok.txt"},
-{"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"clan://TVBox/json/tok.txt$$$fanfan$$$qqq111"},
-{"key":"PanSou","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"clan://TVBox/json/tok.txt"},
-{"key":"七夜","name":"😾七夜┃搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"clan://TVBox/json/tok.txt"},
-{"key":"TuGou","name":"😿土狗┃搜索","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"changeable":0,"ext":"clan://TVBox/json/tok.txt"},
-{"key":"UpYun","name":"😻Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"clan://TVBox/json/tok.txt"},
-{"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/json/tok.txt"},
-{"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"clan://TVBox/json/tok.txt"},
+{"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./json/tok.txt"},
+{"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./json/tok.txt$$$fanfan$$$qqq111"},
+{"key":"PanSou","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./json/tok.txt"},
+{"key":"七夜","name":"😾七夜┃搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./json/tok.txt"},
+{"key":"TuGou","name":"😿土狗┃搜索","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/tok.txt"},
+{"key":"UpYun","name":"😻Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./json/tok.txt"},
+{"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/tok.txt"},
+{"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/tok.txt"},
 
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0}
 ],
