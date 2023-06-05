@@ -9,7 +9,7 @@ def get_fan_conf():
     config = configparser.ConfigParser()
     config.read("config.ini")
 
-    url = 'http://饭太硬.ga/tv'
+    url = 'http://饭太硬.top/tv'
     response = requests.get(url, headers=headers)
     match = re.search(r'[A-Za-z0]{8}\*\*(.*)', response.text)
 
