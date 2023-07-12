@@ -61,7 +61,10 @@ def get_fan_conf():
 
 def diy_conf(content):
     pattern = r'{"key":"js豆豆".*'
-    replacement = r'{"key":"js豆瓣","name":"🅱豆瓣┃首页","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},\n'
+    replacement = r'{"key":"js豆瓣","name":"🅱豆瓣┃首页","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},'
+    content = re.sub(pattern, replacement, content)
+    pattern = r'{"key":"csp_Bili"(.)*\n{"key":"csp_Biliych"(.)*\n{"key":"MV_vod"(.)*\n'
+    replacement = ''
     content = re.sub(pattern, replacement, content)
     pattern = r'{"key":"csp_Nbys"(.|\n)*(?={"key":"cc")'
     replacement = ''
