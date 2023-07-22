@@ -1,5 +1,5 @@
 {
-"spider":"./JAR/fan.txt;md5;065f5221ab68939e0084f1bd6900d4ac",
+"spider":"./JAR/fan.txt;md5;666ca7d5468412592cd65e5a22376dc6",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
 "sites":[
@@ -53,7 +53,7 @@
 {"key":"csp_XPath_企鹅体育","name":"🐧企鹅┃体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/x/xp/企鹅直播.json"},
 {"key":"csp_XBPQ_酷奇","name":"🎤酷奇┃MV","type": 3,"api": "csp_XBPQ","searchable": 0,"quickSearch": 0,"changeable":0,"ext": "http://饭太硬.top/x/xbpq/酷奇MV.json"},
 {"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js","searchable": 0,"quickSearch": 0,"changeable":0},
-{"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼┃直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/x/XYQ/斗鱼直播.json"},
+{"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼┃直播","type":3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js","searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"csp_XBPQ_聚短视频","name":"📽️聚短┃视频","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/x/xbpq/短视频.json"},
 {"key":"有声小说js","name":"🎧有声┃小说","type":3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js","searchable": 0,"quickSearch": 0,"changeable":0},
 
