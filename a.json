@@ -21,7 +21,7 @@
 {"key":"Lib","name": "🌟利播┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext":"https://www.libvio.fun/"},
 {"key":"贱贱","name":"🐭贱贱┃p2p","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"},
 {"key":"探探","name":"🏵探探┃App","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://smallmi.xiaohewanwan.love:63/cili/fan.txt"},
-{"key":"陌陌","name":"🍄陌陌┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://1080dyw.com/icciu_api.php/v1.vod"},
+{"key":"陌陌","name":"🍄陌陌┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
 {"key":"奇奇","name":"🍓奇奇┃直连","type":1,"api":"http://www.csykkj.club/api.php/provide/vod/from/qiqi","playUrl":"json:http://lgg.llwwwll.com:5477/home/api?type=ys&uid=387611&key=ahnrvxyzCDGJKPY137&url=","searchable":1,"quickSearch":1,"categories":["电影","连续剧","综艺","动漫"]},
 {"key":"哈喽","name":"✌哈喽┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 
@@ -76,7 +76,7 @@
 {"name":"聚合1","type":3,"url":"Demo"},
 {"name":"聚合0","type":3,"url":"Web"},
 {"name":"神秘","type":1,"url":"http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="},
-{"name":"哥哥们","type": 1,"url": "https://jiexi.wogg.link/api/饭特析.php?url="},
+{"name":"哥哥们","type":1,"url": "https://jiexi.wogg.link/api/饭特析.php?url="},
 {"name":"全部","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
 {"name":"来自","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua"]}},
 {"name":"网络","type":1,"url":"http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="},
