@@ -74,7 +74,7 @@ def diy_conf(content):
 
 def local_conf(content):
     pattern = r'{"key":"4KHDR".*'
-    replacement = r'{"key":"drpy_js_ikanbot3","name":"爱看机器人[js]","type":3,"api":"./JS/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./JS/js/ikanbot3.js"},\n{"key":"drpy_js_荐片","name":"荐片[js]","type":3,"api":"./JS/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./JS/js/荐片.js","timeout":30},\n{"key":"drpy_js_磁力熊搜索","name":"磁力熊搜索[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},'
+    replacement = r'{"key":"drpy_js_荐片","name":"荐片[js]","type":3,"api":"./JS/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./JS/js/荐片.js","timeout":30},\n{"key":"drpy_js_磁力熊搜索","name":"磁力熊搜索[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},'
     content = re.sub(pattern, replacement, content)
 
     return content
