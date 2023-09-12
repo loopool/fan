@@ -4,11 +4,10 @@
 
 "sites":[
 {"key":"js豆瓣","name":"🅱豆瓣┃首页","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
-{"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/"},
+{"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://23.251.37.83:7788/"},
 {"key":"YGP","name":"🚀叨观荐影┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 
 
-{"key":"drpy_js_ikanbot3","name":"爱看机器人[js]","type":3,"api":"./JS/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./JS/js/ikanbot3.js"},
 {"key":"drpy_js_荐片","name":"荐片[js]","type":3,"api":"./JS/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./JS/js/荐片.js","timeout":30},
 {"key":"drpy_js_磁力熊搜索","name":"磁力熊搜索[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"新6V","name":"🧲新6V磁力┃慎用","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},
