@@ -60,6 +60,7 @@ def get_fan_conf():
             f.write(response.content)
 
 def diy_conf(content):
+    content = content.replace('https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js', './JS/lib/drpy2.min.js')
     pattern = r'{"key":"豆豆".*'
     replacement = r'{"key":"js豆瓣","name":"🅱豆瓣┃首页","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},'
     content = re.sub(pattern, replacement, content)
