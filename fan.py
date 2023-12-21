@@ -60,7 +60,7 @@ def get_fan_conf():
             f.write(response.content)
 
 def diy_conf(content):
-    content = content.replace('https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js', './JS/lib/drpy2.min.js')
+    content = content.replace('https://fanty.run.goorm.site/ext/js/drpy2.min.js', './JS/lib/drpy2.min.js')
     content = content.replace('公众号【神秘的哥哥们】', '豆瓣')
     pattern = r'{"key":"Bili"(.)*\n{"key":"Biliych"(.)*\n'
     replacement = ''
