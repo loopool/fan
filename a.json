@@ -1,18 +1,18 @@
 {
-"spider":"./JAR/fan.txt;md5;c774c41f98e151b33aa70e525b38164a",
+"spider":"./JAR/fan.txt;md5;eea132982ffc884d7a39295f06a5141c",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
 "sites":[
 {"key":"豆豆","name":"🌕豆瓣","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕不断流","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
+{"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 {"key":"YGP","name":"🚀叨观荐影┃新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 
 
 {"key":"Czsapp","name":"📔厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy66.com/"},
 {"key":"Xinsj","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hdmyy.com/"},
 {"key":"南坊","name":"☀南坊┃App","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="},
-{"key":"南瓜","name":"🎃南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"九六","name":"🎀九六┃直连","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"南瓜","name":"🎃南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"小柚","name":"🍊小柚┃App","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="},
 {"key":"萌米","name":"👀萌米┃App","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"},
@@ -32,7 +32,6 @@
 {"key":"Lib","name": "🌟利播┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext":"https://www.libvio.pro/"},
 
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"}, 
-{"key":"Cokemv","name":"📕可乐┃直连","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Auete","name":"🏝奥特┃直连","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://haozhansou.com/"}, 
 {"key":"csp_SP33","name":"📺三三┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
@@ -43,7 +42,7 @@
 {"key":"csp_Ying","name":"💮樱花┃动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Ysj","name":"🎀异界┃动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Anime1","name":"🐾日本┃动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"changeable":1},
-{"key":"csp_Yj1211","name":"📽️网红┃直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"changeable":1},
+{"key":"csp_Yj1211","name":"📽️网红┃直播","type": 3,"api": "csp_Yj1211","searchable": 0,"quickSearch": 1,"changeable":0},
 {"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio":3.8}},
 
 {"key":"drpy_js_爱看","name":"影视 | 爱看[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/爱看.js"},
@@ -59,14 +58,14 @@
 {"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"./JS/lib/drpy2.min.js","ext":"https://fanty.run.goorm.site/ext/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://fanty.run.goorm.site/ext/少儿教育.json"},
 {"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
-{"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanty$$$qqq111"},
+{"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$输入自己的$$$账号密码"},
 {"key":"PanSou","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"UpYun","name":"😻Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"七夜","name":"😾七夜┃搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 
-{"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_fan","searchable": 0,"quickSearch": 0}
+{"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"changeable":1}
 ],
 
 "parses":[
