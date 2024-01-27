@@ -1,6 +1,6 @@
 {
-"spider":"./JAR/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
-"wallpaper":"http://饭太硬.top/深色壁纸/api.php",
+"spider":"./JAR/fan.txt;md5;6695b4fe705a1eedcae352abe5412640",
+"wallpaper":"http://www.饭太硬.top/深色壁纸/api.php",
 
 "sites":[
 {"key":"豆豆","name":"🌕豆瓣","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
