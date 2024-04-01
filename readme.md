@@ -1,13 +1,13 @@
 ### tvbox接口自用
 
 多线接口  
-https://jihulab.com/xo2/fty/-/raw/main/xl.json
+https://ghproxy.net/https://raw.githubusercontent.com/loopool/fan/main/xl.json
 
 饭太硬接口  
-https://jihulab.com/xo2/fty/-/raw/main/xo.json
+https://ghproxy.net/https://raw.githubusercontent.com/loopool/fan/main/xo.json
 
 自用接口  
-https://jihulab.com/xo2/fty/-/raw/main/a.json
+https://ghproxy.net/https://raw.githubusercontent.com/loopool/fan/main/a.json
 
 ### 版本
 
