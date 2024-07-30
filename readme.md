@@ -18,5 +18,4 @@ https://ghproxy.net/https://raw.githubusercontent.com/loopool/fan/main/a.json
 - [takagen99版](https://github.com/takagen99/Box) 
 
 #### app下载
-https://www.lanzouv.com/b03j7buub 18  
 https://ufoclz.lanzouy.com/b00zboiwb 2kzz
