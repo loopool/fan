@@ -1,13 +1,12 @@
 {"urls": [
 {"url": "https://ghproxy.net/https://raw.githubusercontent.com/loopool/fan/main/a.json","name": "自用"},
-{"url": "clan://localhost/TVBox/a.json","name": "本地"},
-{"url": "https://饭太硬.top/tv","name": "饭太硬"},
-{"url": "http://肥猫.love","name": "肥猫"},
+{"url": "http://www.饭太硬.com/tv/","name": "饭太硬"},
+{"url": "http://肥猫.live","name": "肥猫"},
 {"url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json","name": "高天流云"},
-{"url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name": "高天流云js"},
-{"url": "https://jihulab.com/okcaptain/kko/raw/main/ok.txt","name": "okjack"},
-{"url": "http://xhww.fun/小米/DEMO.json","name": "小米"},
-{"url": "http://tvbox.王二小放牛娃.xyz","name": "王二小"}
+{"url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json","name": "PGone"},
+{"url": "http://ok321.top/tv","name": "ok哥"},
+{"url": "https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json","name": "小米"},
+{"url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/","name": "王二小"}
 
 ]
 }
