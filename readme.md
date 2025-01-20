@@ -11,11 +11,6 @@ https://ghproxy.net/https://raw.githubusercontent.com/loopool/fan/main/a.json
 
 ### 版本
 
-- [FongMi版](https://github.com/FongMi/TV ) 
+- [FongMi](https://github.com/FongMi/TV ) 
 
-- [q215613905版](https://github.com/q215613905/TVBoxOS) 
-
-- [takagen99版](https://github.com/takagen99/Box) 
-
-#### app下载
-https://ufoclz.lanzouy.com/b00zboiwb 2kzz
+- [影视仓](https://t.me/tvboxjk) 
