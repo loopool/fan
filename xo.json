@@ -1,5 +1,5 @@
 {
-"spider":"./JAR/fan.txt;md5;bbc89dfee2f420fa14c53f545e3f103b",
+"spider":"./JAR/fan.txt;md5;685fb6b2ffc841343f1135b82cda23e1",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
@@ -65,7 +65,7 @@
 "lives":[
 {"name":"牛播一（仅新版影视仓/ok影视）","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.iill.top/logo/{name}.png"},
 {"name":"IPV4","type":0,"url":"https://ghfast.top/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/multicast.txt","playerType":1,"logo": "https://ghfast.top/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"},
-{"name":"IPV6①","type":0,"url":"https://ghfast.top/raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u","playerType":1},
+{"name":"IPV6①","type":0,"url":"https://ghfast.top/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":1},
 {"name":"平台直播","type":0,"url":"http://tv.iill.top/m3u/Live","ua": "okhttp/3.15","playerType":2 }
 ]
 }
