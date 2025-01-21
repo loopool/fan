@@ -60,12 +60,8 @@ def get_fan_conf():
             f.write(response.content)
 
 def diy_conf(content):
-    #content = content.replace('https://fanty.run.goorm.site/ext/js/drpy2.min.js', './JS/lib/drpy2.min.js')
-    #content = content.replace('公众号【神秘的哥哥们】', '豆瓣')
+    content = content.replace('备用公众号【叨观荐影】', '豆瓣')
     pattern = r'{"key":"Bili"(.)*\n{"key":"Biliych"(.)*\n'
-    replacement = ''
-    content = re.sub(pattern, replacement, content)
-    pattern = r'{"key":"Nbys"(.|\n)*(?={"key":"cc")'
     replacement = ''
     content = re.sub(pattern, replacement, content)
 
