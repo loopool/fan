@@ -1,13 +1,13 @@
 ### tvbox接口自用
 
 多线接口  
-https://ghproxy.net/https://raw.githubusercontent.com/loopool/fan/main/xl.json
+https://muzi.us.kg/xl.json
 
 饭太硬接口  
-https://ghproxy.net/https://raw.githubusercontent.com/loopool/fan/main/xo.json
+https://muzi.us.kg/xo.json
 
 自用接口  
-https://ghproxy.net/https://raw.githubusercontent.com/loopool/fan/main/a.json
+https://muzi.us.kg/a.json
 
 ### 版本
 
