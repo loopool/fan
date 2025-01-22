@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/tv",
+      "destination": "/xl.json",
+      "permanent": true
+    }
+  ]
+}
