@@ -1,9 +1,9 @@
 {
-"spider":"./JAR/fan.txt;md5;fc7b0752fe1f29b6c7a544e6af548599",
+"spider":"./JAR/fan.txt;md5;0107e9be795257ee9596e58ff2b12327",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
-{"key":"豆","name":"修复阿狸 926【神秘的哥哥们】","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"豆","name":"修复更新所有【神秘的哥哥们】","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGGGuard","timeout":30,"searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.com/","danMu":"弹"}},
 {"key":"YGP","name":"🚀叨观荐影┃预告片","type":3,"api":"csp_YGPGuard","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"alllive","name":"📽️一直播┃直播","type":3,"api":"csp_AllliveGuard","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},
@@ -60,12 +60,12 @@
 {"key":"fan","name":"导航 www.饭太硬.com","type":3,"api":"csp_XPathGuard","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"cc","name":"请勿相信视频中广告","type":3,"api":"csp_XPathGuard","searchable":1,"quickSearch":0,"changeable":0}
 ],
-
 "logo":"https://cdn.wmpvp.com/steamWeb/B96F868DE45B45D690B5F9F490D0BC60-1745866248445.gif",
 //"logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738054786827/wushi3.gif",
 "lives":[
+{"name":"V4肥羊","type":0,"url":"https://tanway.oss-cn-beijing.aliyuncs.com/upload/juhe_42636_b9e159834f.txt","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"},
 {"name":"V6范明明（需开启V6网络）","type":0,"url":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250425-868403-298462cec53c48439a5765ceaca3c67f.m3u","playerType":2},
-{"name":"牛播一（仅新版影视仓┃ok影视）","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"},
+{"name":"牛播一","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"},
 {"name":"V4聚合（卡顿请按左┃右键换线）","type":0,"url":"https://gh-proxy.net/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"},
 {"name":"平台直播","type":0,"url":"http://tv.iill.top/m3u/Live","ua": "okhttp/3.15","playerType":2 }
 ]
