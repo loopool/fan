@@ -1,5 +1,5 @@
 {
-"spider":"./JAR/fan.txt;md5;03d768a3fcf8c977d6ce5db0f6405661",
+"spider":"./JAR/fan.txt;md5;179c84371eee032223f7500a60436b9f",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
@@ -16,7 +16,7 @@
 {"key":"原创","name":"☀原创┃秒播","type":3,"api":"csp_YCyzGuard","timeout":30,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"比特","name":"🍄比特┃秒播","type":3,"api":"csp_BttwooGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"低端","name":"⏮️低端┃外剧","type":3,"api":"csp_DdrkGuard","timeout":15,"playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"下饭","name":"🍙下饭┃多线","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOb1uAWbkRHp7hdxprG9un3+TbEn4q2l2kibom2DB9cJ0IB72Vu7apib64Gl9Ew6WDTJcIVzWsluDxqEaBqWIyM77GBXCPqCP2Jl7r3FGDx3lYjd0UDop6mF1H7BIBQDdY7r2sGVAP3S/L0ixe/EshP2U8oWDL+PmnkkcZKQZ475TAVSug/QPVeNQ=="},
+{"key":"下饭","name":"🍙下饭┃多线","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOX1voDIQhH8epBwpmIsuStuSyZxtH332ksdImjS1xHcE9fpWVy8fNjc+8DhNI67j3SJZRGjnM="},
 {"key":"鲸鱼","name":"👀鲸鱼┃多线","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOX1voDIQhH8epBwpmIsuS/sSCZz8r+wzZkfJbkFR5FJ1EK9mVu7apib64Gl8ND6FCETepkkEhht0ptIq9qCQ=="},
 {"key":"欢视","name":"👓欢视┃多线","type":3,"api":"csp_AppTTGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT9fFAy5mE5qU="},
 {"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTTGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
