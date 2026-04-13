@@ -1,9 +1,9 @@
 {
-"spider":"./JAR/fan.txt;md5;596fe0f8b20d34e041cb3727b64ec13e",
+"spider":"./JAR/fan.txt;md5;aea4127857924d97c4ba44a4cdde4818",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
-{"key":"点我切源","name":"新公众号【太太太硬了】","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"点我切源","name":"新增嘟嘟盘，到【太太太硬了】领免费容量","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"MDrive","name":"🗂我的云盘┃我配置","type":3,"api":"csp_MyDriveGuard","changeable":0,"indexs":0,"searchable":1,"style":{"type":"oval"},"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt"}},
 {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGGGuard","timeout":30,"searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt"}},
 {"key":"YGP","name":"🚀叨观荐影┃预告片","type":3,"api":"csp_YGPGuard","searchable":0,"quickSearch":0,"changeable":0},
@@ -18,9 +18,8 @@
 {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_JpysGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"原创","name":"☀原创┃秒播","type":3,"api":"csp_YCyzGuard","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"比特","name":"🍄比特┃秒播","type":3,"api":"csp_BttwooGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
-//{"key":"苹果","name":"🍎苹果┃秒播","type":3,"api":"csp_LiteAppleGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTTGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
 {"key":"糯米","name":"🍓糯米┃多线","type":3,"api":"csp_NmyswvGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTTGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
 {"key":"剧圈","name":"🐻剧圈┃多线","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"},
 {"key":"光影","name":"🌞光影┃多线","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwtCFsub18Wmenoi4l29kKsy7X0oRJRBVvSwnsuM5MO9ZiIJs6T6MfJNEk2ptvW4yXL42Edzeou/SHng="},
 {"key":"视界","name":"🍙视界┃多线","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwpmIsuS1pDrb3t3j0G9nLcv9Hk5HJ1EK9mVu7apib64Gl9tN42ugKclqmXsYtX9DROtqWIyC+ajCEDTiGLA="},
@@ -35,8 +34,8 @@
 {"key":"Dm84","name":"🚌巴士┃动漫","type":3,"api":"csp_Dm84Guard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Anime1","name":"🐾日本┃动漫","type": 3,"api": "csp_Anime1Guard","timeout":10,"searchable": 1,"quickSearch": 1,"changeable":1},
 
-{"key":"88","name":"⚽88┃看球","type":3,"api":"csp_Sir88Guard","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
-{"key":"超全","name":"⚽超全┃看球","type":3,"api":"csp_ZbzGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},"ext":"uqGL1fpJNAUf8fdTwZCE5qSp+Q=="},
+{"key":"88","name":"⚽八八┃看球","type":3,"api":"csp_Sir88Guard","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
+{"key":"超全","name":"⚽吃瓜┃看球","type":3,"api":"csp_LiveGzGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"}},
 {"key":"看球","name":"⚽手机┃看球","type":3,"api":"csp_KanqiuGuard","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"MTV","name":"🎶明星┃MV","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"}},
 {"key":"有声小说","name":"🎧有声┃小说","type":3,"api":"csp_Tingshu275Guard","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0},
