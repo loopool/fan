@@ -1,5 +1,5 @@
 {
-"spider":"./JAR/fan.txt;md5;66c8320a11411420db914bba8b77e34b",
+"spider":"./JAR/fan.txt;md5;92cfb6bbbc08d957efded7a5620631b7",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
@@ -8,7 +8,6 @@
 {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGGGuard","timeout":30,"searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt"}},
 {"key":"YGP","name":"🚀叨观荐影┃预告片","type":3,"api":"csp_YGPGuard","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"MTV1","name":"🎙️易听音乐┃带歌词","type":3,"api":"csp_MusicGuard","style":{"type":"rect","ratio":1},"playerType":2,"searchable":1,"quickSearch":0,"changeable":0},
-//{"key":"alllive","name":"🎮一直播┃直播","type":3,"api":"csp_AllliveGuard","searchable":1,"quickSearch":0,"changeable":0,"ext":"uqGL1fpJNAUH7axYx5bf4OWuvyk="},
 {"key":"seed","name":"💡聚剧剧┃四盘","type":3,"api":"csp_SeedhubGuard","ext":"5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5","searchable":1,"quickSearch":1,"changeable":0, "indexs":0,"style":{"type":"list"}},
 {"key":"ZPan","name":"🎈聚盘搜┃四盘","type":3,"api":"csp_S_zpsGuard","searchable":1,"quickSearch":0,"changeable":0,"ext":{"siteUrl":"http://38.55.131.86:82/"},"indexs":0,"style":{"type":"list"}},
 {"key":"云播","name":"⛅️云播┃无搜索","type":3,"api":"csp_T4Guard","searchable":1,"quickSearch":1,"changeable":0,"ext":"rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CKrShL75AiGhjhdkfX0cfnI/kIpThjDhEZ0lc8r7irE4mRMelQz4llfmVMCtjIFNIHP1T3XqwSmYZd34DfAtnkbgrpiMBiYW36CCI5rTkC3Rtg1wQQjazUZyVHx4Zz5bWbmPv4G8q7PfHWYStVeDannVT2lmLzKbGEDahyxvLhNZRjXO5rPlruB0ydDcR/e/g5nx8N3JhG0oucfv6xVDl0XxYy0K2bY3plgqx32kfnS63xa8sQDbGlYoPtdHQCi2cAvEOaqMb5a6r2D3yvcLXYLjk37CJgQObzK0bCggZPm3B3YenAuunxl5OQmXrzLHjys6I2isL5AwTS2YAjD/R3f4FYWBp+4RdwMBAChatxjEHcaFhCUb0nfTgYKQ4a1pZ4j6+d4YHa0GaMYHO5NZQ0tDRZfAZPcfYaWLSW8iIUx6G2e0JnI6bLAN1TR0AVer8lxfU0zAzAODbKVrt8Oafq0IQ6MeGFcFRGMu4QWrzaublQ=="},
